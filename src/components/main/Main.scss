@@ -63,6 +63,7 @@
         transition: transform 0.7s;
         max-height: 75%;
         overflow: auto;
+        
         &::-vebkit-scrollbar {
             display: none;
         }
