@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/horoscope/static/css/main.eb1fab86.css",
-    "main.js": "/horoscope/static/js/main.0a350e1a.js",
-    "static/media/logo.png": "/horoscope/static/media/logo.d6c42622bddf5a8e7575.png",
-    "index.html": "/horoscope/index.html",
-    "main.eb1fab86.css.map": "/horoscope/static/css/main.eb1fab86.css.map",
-    "main.0a350e1a.js.map": "/horoscope/static/js/main.0a350e1a.js.map"
+    "main.css": "//github.com/murttkapln/Horoscope/static/css/main.eb1fab86.css",
+    "main.js": "//github.com/murttkapln/Horoscope/static/js/main.d064cf85.js",
+    "static/media/logo.png": "//github.com/murttkapln/Horoscope/static/media/logo.d6c42622bddf5a8e7575.png",
+    "index.html": "//github.com/murttkapln/Horoscope/index.html",
+    "main.eb1fab86.css.map": "//github.com/murttkapln/Horoscope/static/css/main.eb1fab86.css.map",
+    "main.d064cf85.js.map": "//github.com/murttkapln/Horoscope/static/js/main.d064cf85.js.map"
   },
   "entrypoints": [
     "static/css/main.eb1fab86.css",
-    "static/js/main.0a350e1a.js"
+    "static/js/main.d064cf85.js"
   ]
 }
